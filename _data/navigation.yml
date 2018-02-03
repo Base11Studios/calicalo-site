@@ -1,0 +1,13 @@
+- name: FAQ
+  link: /faq/
+  new_window: false
+  highlight: false
+- name: Request Feature
+  link: /request/
+  new_window: false
+  highlight: false
+- name: Blog
+  link: https://base11studios.com/blog/
+  new_window: true
+  highlight: false
+  

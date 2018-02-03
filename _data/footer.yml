@@ -1,0 +1,23 @@
+- links:
+  - name: FAQ
+    link: /faq/
+  - name: Request Feature
+    link: /request/
+  - name: App Store
+    link: https://itunes.apple.com/us/app/calicalo-watch-your-calories/id1205082048?ls=1&mt=8
+  - name: Blog
+    link: https://base11studios.com/blog/
+    new_window: true
+- links:
+  - name: Facebook
+    link: https://www.facebook.com/calicaloapp/
+    new_window: true
+    social_icon: Facebook
+  - name: Twitter
+    link: https://twitter.com/base11studios
+    social_icon: Twitter
+    new_window: true
+  - name: YouTube
+    link: https://www.youtube.com/channel/UCNu6h9EOPN_60Tn0DPlslqQ
+    social_icon: YouTube
+    new_window: true
