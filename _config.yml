@@ -10,11 +10,11 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Calorie deficit tracking for iPhone and Apple Watch.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: "Base11 Studios"
+  email: "ryan@base11studios.com"
+  twitter: base11studios
 social:
   name: Watch Your Calories
   links:
