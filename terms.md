@@ -10,7 +10,7 @@ App calculations are general and not personalized.
 ## Health Advice
 CaliCalo does not provide health or nutrition advice. It is only meant to provide details on net calorie intake. Consult a physician when experiencing any unexpected weight gain or loss. 
 ## Data Source
-CaliCalo uses data from HealthKit. We do not pull any other data from the device or other apps.
+CaliCalo uses data from HealthKit. CaliCalo does not write data to HealthKit and is not responsible for data written by other apps
 ## Loss of Data
 CaliCalo uses the data from HealthKit for read purposes only and is not responsible for loss of data.
 ## Subscription
