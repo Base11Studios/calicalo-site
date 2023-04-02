@@ -4,7 +4,7 @@
 title: CaliCalo - Watch Your Calories
 url: "https://calicalo.base11studios.com"
 baseurl:
-google_analytics_key: UA-114651276-1
+google_analytics_key: G-2RNHRT0PMK
 google_maps_javascript_api_key:
 disqus_shortname:
 
@@ -73,12 +73,13 @@ jekyll-archives:
   enabled:
     - categories
 
-gems:
+plugins:
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
+  - kramdown-parser-gfm
 
 exclude:
   - Gemfile
